@@ -1,5 +1,5 @@
 # AC_03_ED
-#Atividades da AC03 de Estrutura de Dados
+#Atividades da AC03 de Estrutura de Dados </br>
 Integrantes do Grupo: (Nome, RA) </br>
 Caio Vinicius Gonçalves - 1903291 </br>
 Gabriel Munhoz Gasparotti - 1902849 </br>
